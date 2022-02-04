@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "do-not-use-test-crate-123"
 license = "MIT"
-documentation = "README.md"
+documentation = "https://github.com/lukehinds/do-not-use-test-crate-123/docs"
 homepage = "https://github.com/lukehinds/do-not-use-test-crate-123"
 repository = "https://github.com/lukehinds/do-not-use-test-crate-123"
 
