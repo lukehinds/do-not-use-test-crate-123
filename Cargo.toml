@@ -5,7 +5,7 @@ edition = "2021"
 description = "do-not-use-test-crate-123"
 license = "MIT"
 documentation = "README.md"
-homepage = "example.com"
+homepage = "https://github.com/lukehinds/do-not-use-test-crate-123"
 repository = "https://github.com/lukehinds/do-not-use-test-crate-123"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
